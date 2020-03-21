@@ -3,7 +3,7 @@
  */
 const crypto = require('crypto');
 
-export default class Signature {
+class Signature {
     constructor() {
 
     }
@@ -31,3 +31,5 @@ export default class Signature {
 
 
 };
+
+module.exports = Signature;
