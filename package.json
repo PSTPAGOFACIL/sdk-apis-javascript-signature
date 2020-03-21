@@ -1,5 +1,5 @@
 {
-  "name": "sdk-apis-javascript-signature",
+  "name": "@pagofacil/sdk-apis-javascript-signature",
   "version": "1.0.0",
   "description": "Para Firmar el Mensaje de las APIs de Pago Fácil",
   "main": "index.js",
