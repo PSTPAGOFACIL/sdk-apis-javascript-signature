@@ -14,12 +14,15 @@ This library will help you to sign the message that you send to Pago Fácil API 
 ## Getting Started <a name = "getting_started"></a>
 
 
-### Installing the Library <a name = "installing_npm"></a>
+### Installing the NPM Library <a name = "installing_npm"></a>
 ```
-npm i --save pagofacil/sdk-apis-javascript-signature
+npm i --save @pagofacil/sdk-apis-javascript-signature
 ```
 
-
+### Installing the Library from GITHUB <a name = "installing_github"></a>
+```
+npm i --save PSTPAGOFACIL/sdk-apis-javascript-signature
+```
 
 ## Usage <a name = "usage"></a>
 
