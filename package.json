@@ -1,0 +1,22 @@
+{
+  "name": "sdk-apis-javascript-signature",
+  "version": "1.0.0",
+  "description": "Para Firmar el Mensaje de las APIs de Pago Fácil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PSTPAGOFACIL/sdk-apis-javascript-signature.git"
+  },
+  "author": "Cristian Tala Sánchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PSTPAGOFACIL/sdk-apis-javascript-signature/issues"
+  },
+  "homepage": "https://github.com/PSTPAGOFACIL/sdk-apis-javascript-signature#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
