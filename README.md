@@ -1,3 +1,20 @@
+<p align="center">
+  <a href="" rel="noopener">
+ <img height=200px src="assets/images/1-Logo_cuadrado.png" alt="Pago Fácil SpA Examples"></a>
+</p>
+
+<h3 align="center"><a href="https://github.com/PSTPAGOFACIL/sdk-apis-javascript-signature" target = "_blank">@pagofacil/sdk-apis-javascript-signature</a></h3>
+
+<div align="center">
+
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/PSTPAGOFACIL/sdk-apis-javascript-signature/)
+[![GitHub Issues](https://img.shields.io/github/issues/PSTPAGOFACIL/sdk-apis-javascript-signature/.svg)](https://github.com/PSTPAGOFACIL/sdk-apis-javascript-signature//issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/PSTPAGOFACIL/sdk-apis-javascript-signature.svg)](https://github.com/PSTPAGOFACIL/sdk-apis-javascript-signature/pulls)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+</div>
+
+---
+
 # @pagofacil/sdk-apis-javascript-signature
 
 ## Table of Contents
