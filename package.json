@@ -18,5 +18,11 @@
   "homepage": "https://github.com/PSTPAGOFACIL/sdk-apis-javascript-signature#readme",
   "dependencies": {
     "crypto": "^1.0.1"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [
+    "pagofacil",
+    "signature",
+    "sdk"
+  ]
 }
